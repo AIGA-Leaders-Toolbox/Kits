@@ -10,6 +10,10 @@ Additionally:
 
 Down the road, if the national organization creates a repository within the existing AIGA digital ecosystem, this git will be retired, and this content will be ported over.
 
-To get started, hop over to the Wiki - where all contributions will be stored.
+To get started, hop over to the Wiki - which has directions for contributing. 
+
+Or if you're looking for tools and templates, visit "Issues", and peruse the contributions there.
+
+Remember: DO NOT DELETE / CLOSE ISSUES that you did not create.
 
 Let us know if you have any questions! We're in the Leadership Slack. Frances + Victor
